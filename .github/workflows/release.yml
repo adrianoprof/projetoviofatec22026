@@ -1,4 +1,4 @@
-name: Release and Deploy Workflow
+name: Release and Deploy Workflow - teste com alunos
 
 on:
   push:
